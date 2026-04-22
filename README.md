@@ -1,5 +1,5 @@
 # AeroGrid Builder
-<a href="https://hits.sh/github.com/sapthesh/AeroGrid-Builder/"><img alt="Hits" src="https://hits.sh/github.com/sapthesh/AeroGrid-Builder.svg?view=today-total&color=fe7d37"/></a>
+<a href="https://hits.sh/github.com/sapthesh/AeroGrid-Builder/"><img alt="Hits" src="https://hits.sh/github.com/sapthesh/AeroGrid-Builder.svg?view=today-total&color=fe7d37"/></a> 
 
   <strong>A revolutionary, high-performance WordPress visual page builder</strong><br>
   
