@@ -1,5 +1,5 @@
 # AeroGrid Builder
-<a href="https://hits.sh/github.com/sapthesh/AeroGrid-Builder/"><img alt="Hits" src="https://hits.sh/github.com/sapthesh/AeroGrid-Builder.svg?view=today-total&color=fe7d37"/></a> 
+<a href="https://hits.sh/github.com/sapthesh/AeroGrid-Builder/"><img alt="Hits" src="https://hits.sh/github.com/sapthesh/AeroGrid-Builder.svg?view=today-total&color=fe7d37"/></a>  
 
   <strong>AeroGrid Builder is a WordPress visual page builder plugin that focuses on performance and simplicity. It's designed
   to be a lightweight alternative to heavy page builders like page builders, which typically add 500KB+ of
