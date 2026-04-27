@@ -6,7 +6,6 @@
   JavaScript and CSS to every page.</strong><br>
   
 
-
 ---
 
 ## Why AeroGrid?
